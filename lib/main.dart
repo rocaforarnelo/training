@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         //Pointeless Comment
-        //Another Comment
+        //Another comment 2
         // This is the theme of your application.
         //
         // Try running your application with "flutter run". You'll see the
@@ -40,7 +40,6 @@ class MyHomePage extends StatefulWidget {
   // case the title) provided by the parent (in this case the App widget) and
   // used by the build method of the State. Fields in a Widget subclass are
   // always marked "final".
-  //Final Comment
 
   final String title;
 
